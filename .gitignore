@@ -1,0 +1,11 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+models/
+results/part_*.csv
+data/real_*
+data/*hospital*
+.vscode/
+.DS_Store
+Thumbs.db

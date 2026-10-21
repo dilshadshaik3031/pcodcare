@@ -1,0 +1,3 @@
+AUC,Sensitivity,Specificity,Caught incl. referral,Brier,ECE,Questions per patient,Burden per patient,Reached Level 2 (%),Reached Level 3 (%),Flips across 50%,Movement in last 3 answers,Policy,Train,Test,Patients
+0.7758913412563667,0.7894736842105263,0.7741935483870968,0.8421052631578947,0.189277479696538,0.1760782644066392,11.62,14.12,44.0,4.0,2.0,0.0938254181613156,Proposed (risk + uncertainty + stability),"H01, H02",H03,50
+0.8675721561969439,0.8421052631578947,0.8387096774193549,0.8421052631578947,0.1316550886377616,0.1343661753618564,32.1,49.96,100.0,100.0,0.0,0.0,Full-feature model,"H01, H02",H03,50
